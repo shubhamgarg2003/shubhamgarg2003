@@ -1,6 +1,6 @@
 
-<img src="images/header.png"/>
-<h1 align="center">Hi 👋, I'm Shubham Garg</h1>
+<img src="header.png"/>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate DSA student</h3>
 
 <p align="left"> <a href="https://twitter.com/shubhamistic" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamistic?logo=twitter&style=for-the-badge" alt="shubhamistic" /></a> </p>
